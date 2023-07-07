@@ -3,7 +3,7 @@ IconChanger scans the folder for images and replaces them with the image you pro
 It is useful for when you have a lot of images to replace, for example when you want to change the icon of an app.
 
 ## Requirements
-IconChanger utilizes vips. Refer to the (golang library)[https://github.com/davidbyttow/govips] to install the dependencies
+IconChanger utilizes vips. Refer to the [golang library](https://github.com/davidbyttow/govips) to install the dependencies
 
 ## Usage
 
